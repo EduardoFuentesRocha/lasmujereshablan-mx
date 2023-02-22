@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: LAS MUJERES HABLAN
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/ac7874f8-729e-4cab-9896-086f413fcaad/
 subtitle: " ¡Y ELLAS TIENEN LA ULTIMA PALABRA!"
 meta:
   description: This is a meta description.
