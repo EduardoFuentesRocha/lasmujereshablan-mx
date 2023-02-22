@@ -4,24 +4,15 @@ slug: contact
 title: Contacto
 featuredImage: https://ucarecdn.com/c6d58741-e3fe-45b1-8234-8adb63c5f4b7/
 subtitle: ¡﻿Queremos saber de ti!
-address: 404 James St, Burleigh Heads QLD 4220
-phone: 0987 123 456
-email: example@example.com
+address: México
+phone: "(552)742-07-31 -  (557) 433-85-06 "
+email: artconnectingmx@gmail.com
 locations:
   - lat: "-27.9654732"
     lng: "153.2432449"
     mapLink: ""
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Contacto
+  title: Contacto
 ---
-
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+# Las Mujeres Hablan
