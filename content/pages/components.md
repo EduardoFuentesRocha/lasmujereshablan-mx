@@ -2,8 +2,8 @@
 template: ComponentsPage
 slug: components
 title: Donativos
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+featuredImage: https://ucarecdn.com/8f69ced3-310b-4b6f-8eaa-768e7a2e888e/
+subtitle: R﻿ealiza tu donativo con tu tarjeta de credito o debito.
 section1: >-
   ## This is a container component
 
@@ -39,6 +39,7 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: Donativos
+  title: Donativos
+  canonicalLink: donativos
 ---
