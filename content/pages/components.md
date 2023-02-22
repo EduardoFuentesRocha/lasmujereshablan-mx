@@ -4,21 +4,11 @@ slug: components
 title: Donativos
 featuredImage: https://ucarecdn.com/8f69ced3-310b-4b6f-8eaa-768e7a2e888e/
 subtitle: R﻿ealiza tu donativo con tu tarjeta de credito o debito.
-section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
-section2: >-
-  ## You can use videos, images and text.
-
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
-videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
-videoTitle: Also background videos, with poster image & title overlay.
+section1: "## D﻿onaciones"
+section2: "## D﻿onaciones"
+video: https://ucarecdn.com/85cc1ef9-9c5d-43a9-be44-8f48a6c7ea49/
+videoPoster: https://ucarecdn.com/5fabe2de-879e-4d83-acbe-55529f98cf82/
+videoTitle: Donaciones
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
@@ -35,9 +25,6 @@ gallery:
   - alt: umbrellas
     image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
     title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
 meta:
   description: Donativos
   title: Donativos
