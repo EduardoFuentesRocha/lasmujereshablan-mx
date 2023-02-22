@@ -1,9 +1,8 @@
 .Nav {
-  background: white;
+  background: black;
   position: sticky;
   top: 0;
   z-index: 2;
-  border-bottom: 1px solid var(--lightGrey);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.025);
 }
 
@@ -79,7 +78,7 @@
   top: 100%;
   left: 0;
   width: auto;
-  background: white;
+  background: black;
   /* opacity: 0; */
   max-height: 0;
   overflow: hidden;
@@ -127,7 +126,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: white;
+    background: black;
     animation: Nav--Links 0.2s ease;
   }
 
