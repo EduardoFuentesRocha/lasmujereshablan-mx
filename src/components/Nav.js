@@ -73,7 +73,7 @@ export class Navigation extends Component {
           <div className="Nav--Links">
             <NavLink to="/">Presentacion</NavLink>
             <NavLink to="https://las-mujeres-hablan.netlify.app/">Obra de teatro</NavLink>
-            <div
+            {/* <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
               }`}
@@ -108,7 +108,7 @@ export class Navigation extends Component {
                   ))}
                 </div>
               </span>
-            </div>
+            </div> */}
             <NavLink to="/videopodcast/">Videopodcast</NavLink>
             <NavLink to="/audiolibro/">Audiolibro</NavLink>
             <NavLink to="/terapia-en-linea/">Terapia en línea</NavLink>
