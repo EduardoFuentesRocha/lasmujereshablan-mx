@@ -111,9 +111,10 @@ export class Navigation extends Component {
             </div> */}
             <NavLink to="/videopodcast/">Videopodcast</NavLink>
             <NavLink to="/audiolibro/">Audiolibro</NavLink>
-            <NavLink to="/terapia-en-linea/">Terapia en línea</NavLink>
+            <NavLink to="/terapia-en-linea/">Terapia</NavLink>
             <NavLink to="/contenido-de-valor/">Contenido de valor</NavLink>
             <NavLink to="https://ponte-la-naranja.netlify.app/">Campaña</NavLink>
+            <NavLink to="/contacto/">Donativos</NavLink>
             <NavLink to="/contacto/">Contacto</NavLink>
           </div>
           <button
