@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: donativos
 title: Donativos
 featuredImage: https://ucarecdn.com/8f69ced3-310b-4b6f-8eaa-768e7a2e888e/
-subtitle: R﻿ealiza tu donativo con tu tarjeta de credito o debito.
+subtitle: Realiza tu donativo con tu tarjeta de crédito o débito.
 section1: |-
   ## D﻿onaciones
 
