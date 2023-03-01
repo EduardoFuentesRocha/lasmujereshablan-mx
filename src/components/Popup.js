@@ -30,17 +30,6 @@ class Popup extends Component {
     return (
       <Fragment>
         <div className="taCenter">
-          <h3> Simple Popup Example</h3>
-          <div
-            className="Button"
-            onClick={this.togglePopup.bind(this)}
-            onKeyDown={this.handleKeyDown}
-            tabIndex={0}
-            aria-label="Toggle Popup"
-            role="button"
-          >
-            Click To Launch Popup
-          </div>
         </div>
         {this.state.showPopup ? (
           <div className="Popup-Overlay">
