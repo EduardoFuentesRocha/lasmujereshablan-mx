@@ -17,7 +17,12 @@ video: https://ucarecdn.com/85cc1ef9-9c5d-43a9-be44-8f48a6c7ea49/
 videoPoster: https://ucarecdn.com/5fabe2de-879e-4d83-acbe-55529f98cf82/
 videoTitle: Donaciones
 accordion:
+  - description: Taciti lorem tempor quam vestibulum dis habitasse
+    title: Taciti lorem
 gallery:
+  - alt: yellow rope image
+    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
+    title: Yellow Rope
 meta:
   description: Donativos
   title: Donativos
