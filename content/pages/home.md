@@ -3,22 +3,19 @@ template: HomePage
 slug: ""
 title: LAS MUJERES HABLAN
 featuredImage: https://ucarecdn.com/ac7874f8-729e-4cab-9896-086f413fcaad/
-subtitle: " ¡Y ELLAS TIENEN LA ULTIMA PALABRA!"
+subtitle: " ¡Y ELLAS TIENEN LA ÚLTIMA PALABRA!"
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-LAS MUJERES HABLAN ES UN PROYECTO SOCIOCULTURAL QUE DARÁ VOZ A
-TODAS LAS MUJERES EN CONTEXTOS DE VIOLENCIA Y DESIGUALDAD DE GENERO.
+Las Mujeres Hablan es un proyecto sociocultural que dará voz a todas las mujeres en contextos de violencia y desigualdad de género. Un proyecto que se basa en amor, empatía y autoestima hecho a través del arte.
 
-D﻿E MANERA INTEGRAL "LAS MUJERES HABLAN" INFORMA, PREVIENE Y ATIENDE A MUJERES QUE ESTAN EN CONTEXTOS DE VIOLENCIA. LAS MUJERES HABLAN AYUDA A TODAS LAS MUJERES A SER ESCUCHADAS. ES POR ESO QUE ESTE PROYECTO PERMITIRA CONCIENTIZAR A LA SOCIEDAD EN GENERAL (HOMBRES Y MUJERES) SOBRE LA SITUACION DE VIOLENCIA QUE ENFRENTAN MILES DE MUJERES EN NUESTRO PAIS.
+Por medio de contenidos creativos y sociales: obra de teatro, video podcast, libro, terapia en línea, colectivo y campaña, de manera integral "Las Mujeres Hablan" informará, prevendrá  y atenderá  a mujeres que están en contextos de violencia. Los espacios de sororidad creados por medio del arte terapia  dará seguridad, autoestima y empoderamiento a muchas mujeres, así como orientación jurídica y atención psicológica.  
 
+El proyecto permitirá concientizar a la sociedad en general (hombres y mujeres, niños y niñas y jóvenes) sobre la situación de violencia que enfrentan miles de mujeres en nuestro país y con esto crear empatía. Asimismo el proyecto mostrará la importancia de los derechos humanos como eje central para la prevención de violencias, establecer la igualdad de género y contrarrestar la cultura machista y misógina.
 
+Las Mujeres Hablan ayudará a todas las mujeres a ser escuchadas y se reconocerá el esfuerzo de las mujeres mexicanas, casos de éxito de ¡mujeres chingonas!, mujeres que a pesar de las adversidades sociales, políticas, económicas y de violencia, pudieron ser mujeres que hoy hablan y son ejemplo de muchas más, para que juntas salgan adelante y recordarles que no están solas. 
 
-A﻿SIMISMO EL PROYECTO MOSTRARA LA IMPORTANCIA DE LOS DERECHOS HUMANOS COMO EJE CENTRAL PARA LA PREVENCION DE VIOLENCIAS, LA IGUALDAD DE GENERO Y CONTRARRESTRAR LA CULTURA MACHISTA Y MISOGINA.
+Las Mujeres hablan por medio del arte será un canal de comunicación incisivo, sutil, persuasivo y eficaz que revolucionará conciencias, no solo de mujeres, sino también de hombres, y dará voz a esas mujeres que hoy están calladas. 
 
-P﻿OR ULTIMO RECONOCERA EL ESFUERZO DE LAS MUJERES MEXICANAS, CASOS DE EXITO DE ¡MUJERES CHINGONAS! MUJERES QUE A PESAR DE LAS ADVERSIDADES SOCIALES, POLITICAS, ECONOMICAS Y DE VIOLENCIA, PUDIERON SER MUJERES QUE HOY HABLAN Y SON EJEMPLO DE MUCHAS MAS.
-
-T﻿AL VEZ NUESTRO PROYECTO NO PODRA INCIDIR Y/O CAMBIAR LAS POLITICAS PUBLICAS Y/O LEYES EXISTENTES QUE PROTEGEN A LAS MUJERES, PERO SI PODREMOS SER UN CANAL DE COMUNICACION INCISIVO, SUTIL, PERSUASIVO Y EFICAZ QUE REVOLUCIONARA CONCIENCIAS, NO SOLO DE MUJERES, SINO TAMBIEN DE HOMBRES, UN PROYECTO BASADO EN AMOR Y EN AUTOESTIMA HECHO A TRAVES DEL ARTE.
-
-LAS MUJERES HABLAN ¡Y ELLAS TIENEN LA ULTIMA PALABRA!
+Las Mujeres Hablan ¡y ellas tienen la última palabra!
