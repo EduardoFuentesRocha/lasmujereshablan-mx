@@ -12,6 +12,7 @@ section1: |-
   ## [5﻿00](https://donate.stripe.com/fZe8y5cCi9cK94Q4gg)
 
   ## [1﻿000](https://donate.stripe.com/fZe8y5cCi9cK94Q4gg)
+section2: "## D﻿onaciones"
 meta:
   description: Donativos
   title: Donativos
